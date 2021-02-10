@@ -1,1 +1,1 @@
-A blog built with Next
+A blog built with Next.js
